@@ -1,0 +1,9 @@
+{
+  "versionCode": 14,
+  "versionName": "1.4-lite",
+  "url": "https://github.com/pokybu/poky-launcher/releases/download/lite-14/Launcher-Poky-1.4-lite.apk",
+  "sha256": "f2ac6164d367c178fce6e584a0ce2e927ebfc2452aea7e08887cbe67dc2ce812",
+  "size": 18570470,
+  "notes": "Ahora el launcher se actualiza desde internet: cuando haya una versión nueva te avisará.",
+  "date": "2026-11-22 05:02"
+}
