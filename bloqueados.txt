@@ -1,2 +1,1 @@
 # Equipos bloqueados por Poky Admin (un ID por linea)
-1MZ7-3P6M
