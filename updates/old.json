@@ -1,9 +1,9 @@
 {
-  "versionCode": 18,
-  "versionName": "1.8-old",
-  "url": "https://github.com/pokybu/poky-launcher/releases/download/old-18/Launcher-Poky-Lite-Old-1.8-old.apk",
-  "sha256": "abbbdacfd93e80303b444a77b187e9cecbe9260b1ca272bae60d6f351e4593b1",
-  "size": 5286535,
+  "versionCode": 20,
+  "versionName": "2.0-old",
+  "url": "https://github.com/pokybu/poky-launcher/releases/download/old-20/Launcher-Poky-Lite-Old-2.0-old.apk",
+  "sha256": "61f68033e5a7bff49b24a1719653d7955d824d072b6c5774ba8309ce64df60af",
+  "size": 5665588,
   "notes": "",
-  "date": "2026-11-22 22:56"
+  "date": "2026-11-23 20:05"
 }
