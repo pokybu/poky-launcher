@@ -1,2 +1,1 @@
 # Equipos bloqueados por Poky Admin (un ID por linea)
-W5WK-JSYT
